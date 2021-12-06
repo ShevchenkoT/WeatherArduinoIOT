@@ -1,6 +1,6 @@
 Using DHT11 and ESP32, I publish temperature
 and humidity data to AWS using the MQTT protocol.
 
-https://user-images.githubusercontent.com/22478818/132166789-17e70119-8ddd-4672-b462-2051ccba0649.MOV
+https://user-images.githubusercontent.com/22478818/144866337-e3f7185a-2634-48cf-a09f-9181371000a6.MP4
 
 ﻿# arduino_Aws_Iot
